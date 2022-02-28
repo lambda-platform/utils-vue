@@ -1,0 +1,43 @@
+{
+    "name": "@lambda-platform/utils",
+    "version": "0.0.1",
+    "description": "Lambda platform - Utils",
+    "main": "src/index.js",
+    "repository": "https://github.com/lambda-platform/utils-vue",
+    "author": "Lambda Developer Team",
+    "license": "MIT",
+    "private": false,
+    "scripts": {
+        "start": "vue-cli-service serve --mode development",
+        "build": "vue-cli-service build",
+        "lint": "vue-cli-service lint"
+    },
+    "dependencies": {
+
+    },
+    "devDependencies": {
+
+    },
+    "eslintConfig": {
+        "root": true,
+        "env": {
+            "node": true
+        },
+        "extends": [
+            "plugin:vue/essential",
+            "eslint:recommended"
+        ],
+        "parserOptions": {
+            "parser": "babel-eslint"
+        },
+        "rules": {}
+    },
+    "browserslist": [
+        "> 1%",
+        "last 2 versions",
+        "not dead"
+    ],
+    "publishConfig": {
+        "access": "public"
+    }
+}
