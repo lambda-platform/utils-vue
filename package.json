@@ -1,6 +1,6 @@
 {
     "name": "@lambda-platform/utils",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Lambda platform - Utils",
     "main": "src/index.js",
     "repository": "https://github.com/lambda-platform/utils-vue",
